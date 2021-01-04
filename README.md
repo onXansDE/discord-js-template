@@ -2,7 +2,8 @@
 A template to get started making Discord Bots quickly.
 
 
-
+## Version 1.0.0
+- Added a simple voice manager and audio player
 
 ## Version 1.0.0
 
