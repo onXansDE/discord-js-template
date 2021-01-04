@@ -136,3 +136,7 @@ client.on("message", (msg) => {
 
 
 client.login(config.token);
+
+module.exports = {
+    client: client
+}

@@ -1,6 +1,6 @@
 {
   "name": "discord-js-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A template to start making Discord Bots",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/onhaxyt/discord-js-template#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "ytdl-core-discord": "^1.2.5"
   }
 }
