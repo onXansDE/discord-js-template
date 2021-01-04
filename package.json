@@ -1,0 +1,22 @@
+{
+  "name": "discord-js-template",
+  "version": "1.0.0",
+  "description": "A template to start making Discord Bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onhaxyt/discord-js-template.git"
+  },
+  "author": "onXans#1772",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onhaxyt/discord-js-template/issues"
+  },
+  "homepage": "https://github.com/onhaxyt/discord-js-template#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
